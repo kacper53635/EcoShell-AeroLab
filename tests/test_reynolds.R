@@ -9,9 +9,9 @@ Re_test <- calculate_reynolds(
 
 Re_test
 
-expected <- (1.225 * 15 * 0.5) / 1.81e-5
+expected_reynolds <- (1.225 * 15 * 0.5) / 1.81e-5
 
-if (abs(Re_test - expected) < 1e-6) {
+if (abs(Re_test - expected_reynolds) < 1e-6) {
   print("TEST PASSED")
 } else {
   print("TEST FAILED")

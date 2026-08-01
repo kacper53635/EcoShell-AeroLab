@@ -1,25 +1,33 @@
-Lesson 1 — Reynolds Number
+Lesson 1 - Reynolds Number
 Summary
 
-Learned the basics of:
+Programming
 
-creating and using functions,
-performing basic calculations,
-working with vectors and sequences,
-creating and using data frames,
-creating figures from data,
-writing simple tests using comparisons and abs().
+Created reusable functions.
+Learned to write code that works with both single values and vectors.
+Learned to organize data using data frames.
+Created the first scientific plot using ggplot2.
+Wrote simple validation tests using abs().
+
 Aerodynamics
 
-Learned:
+What the Reynolds number represents,
+What the Reynolds number is used for,
+Where it is used in fluid dynamics and aerodynamics,
+Why Reynolds number is important when analyzing vehicle aerodynamics,
+How Reynolds number affects the characteristics of a flow,
+How air density, velocity, characteristic length, and dynamic viscosity affect Reynolds number,
+How changing each parameter changes the resulting Reynolds number.
 
-what the Reynolds number represents,
-what the Reynolds number is used for,
-where it is used in fluid dynamics and aerodynamics,
-why Reynolds number is important when analyzing vehicle aerodynamics,
-how Reynolds number affects the characteristics of a flow,
-how air density, velocity, characteristic length, and dynamic viscosity affect Reynolds number,
-how changing each parameter changes the resulting Reynolds number.
+Applications
+
+Compare different body concepts.
+Estimate whether the airflow regime changes with vehicle speed.
+Verify if wind tunnel tests are representative of real driving conditions.
+Understand whether aerodynamic coefficients can be compared between different tests.
 
 Progress
-Lesson 1 / 14 — 7%
+Lesson 1/14 - 7%
+
+Next lesson
+Learn how to calculate dynamic pressure.
